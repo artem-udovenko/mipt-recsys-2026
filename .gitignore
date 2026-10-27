@@ -1,0 +1,21 @@
+# данные
+data/
+*.json.gz
+*.csv
+*.parquet
+*.pkl
+*.npz
+*.pt
+
+# окружение
+.venv/
+venv/
+.env
+
+# кеши
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
